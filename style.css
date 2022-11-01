@@ -1,0 +1,91 @@
+head { 
+width:10px;
+height: 10px;
+}
+
+img {
+margin: 20px; 
+padding: 10px 20px;
+}
+
+
+
+card-white h2 {
+    width: 30px;
+    height: 20px;
+    position: sticky ;border-top: 20px;
+}
+
+
+h1 { 
+    color:mediumpurple;
+    text-align: center;
+    text: justify;
+}
+h2 {
+    color: rosybrown;
+    text-align:center;
+    text: justify;
+     }
+
+h3  {
+    color: rosybrown;
+    text-align:center;
+    text:center; 
+    font-size: 17px;
+     } 
+
+h4 { 
+    color:rosybrown;
+    text-align: center;
+    text: justify;
+}   
+
+p {color: mediumpurple;
+    text-align: center;
+    text: justify;
+    font-size: 25px;
+}
+
+ul  {
+    color: lightcoral;
+    text-align: center;
+    font-size: 25px;
+    font-height: 3.6;
+    font-spacing: 300px;
+ }    
+ 
+body { 
+     font-family: 'Comfortaa', cursive;
+    }
+
+body  {
+    text-align: center;
+    text: justify; }
+
+p {
+    text-align: center;
+    text: justify;
+}    
+
+body {
+font-size:18px;
+font-height: 1.8px;
+font-spacing:50px;
+}
+
+
+a { 
+    color:lightpink;
+    background-color:lightyellow;
+    padding:4px; 
+}
+
+.card-white { 
+box-shadow: 5px 5px 5px rgb(230,230,230);}
+
+.card-white img {
+    width: 410px;
+    height: 500px;
+}
+
